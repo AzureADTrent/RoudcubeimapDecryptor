@@ -39,7 +39,7 @@ Open roundcubeimapdecryptor.php in a text editor and:
 
 ### 4. Run the Script
 ```
-php roundcubeimapdecryptor.php
+php RoudcubeimapDecryptor.php
 ```
 
 ### 5. Output
